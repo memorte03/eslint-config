@@ -3,7 +3,8 @@
 ## Installation
 
 ```shell
-npm install --save-dev @memorte03/eslint-config
+yarn install --dev @memorte03/eslint-config
+npx install-peerdeps --dev @memorte03/eslint-config
 ```
 
 ## Usage
