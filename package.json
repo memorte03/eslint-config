@@ -1,6 +1,6 @@
 {
   "name": "@memorte03/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "description": "Eslint config for React",
   "homepage": "https://github.com/memorte03/eslint-config",
@@ -22,11 +22,12 @@
   },
   "devDependencies": {
     "@typescript-eslint/parser": "~6.8.0",
-    "babel-eslint": "^10.1.0",
     "jsonc-eslint-parser": "^2.1.0"
   },
   "peerDependencies": {
+    "babel-eslint": "^10.1.0",
     "@typescript-eslint/eslint-plugin": "~6.8.0",
+    "eslint-plugin-flowtype": "^8.0.3",
     "eslint-plugin-unused-imports": "^3.0.0",
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "eslint-plugin-sonarjs": "^0.21.0",
