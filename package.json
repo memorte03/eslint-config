@@ -1,6 +1,6 @@
 {
   "name": "@memorte03/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "description": "Eslint config for React",
   "homepage": "https://github.com/memorte03/eslint-config",
